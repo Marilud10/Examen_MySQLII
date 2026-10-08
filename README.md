@@ -4,7 +4,7 @@ Examen MySQLII
 
 # Consulta SQL: Total pagado por reservas de todos los usuarios que tengan la membresia activa.
 
-Evaluación MySQL II · Sistema de Gestión de Coworking y Oficinas Compartidas
+Evaluación MySQL II · Sistema de Gestión de Coworking.
 
 ## Descripción
 
