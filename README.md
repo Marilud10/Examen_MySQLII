@@ -27,3 +27,8 @@ Consulta: Usuarios con membresía activa y total pagado por reservas > 100
 4. Se agrupa por usuario y tipo de membresía para permitir la función de agregación SUM().
 5. Se filtra con HAVING para mostrar únicamente los que superen los 100 en total pagado por reservas.
 6. Se ordena el resultado de forma descendente.
+
+
+Imagen Con la Prueba de que funciona la consulta. 
+
+<img width="827" height="757" alt="image" src="https://github.com/user-attachments/assets/c3d8dffa-5110-4839-bb19-f74c3003ea65" />
